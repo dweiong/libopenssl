@@ -1,0 +1,8 @@
+Package: openssl
+Version: 1.1.1l
+Port-Version: 1
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 5a0b12618573bef223117f8fd0ef1f180678d309ef547106ccca6191f67a1a80
+Description: OpenSSL is an open source project that provides a robust, commercial-grade, and full-featured toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols. It is also a general-purpose cryptography library.
+Type: Port
